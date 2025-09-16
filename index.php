@@ -14,6 +14,13 @@
         <p>David Pérez Piñeiro</p>
         <p>Pablo Martínez Alonso</p>
         <p>Lexie Gomez Martinez</p>
+        <p>Miguel Ángel Rey</p>
+        <p>
+                 _._     _,-'""`-._
+                (,-.`._,'(       |\`-/|
+                    `-.-' \ )-`( , o o)
+                          `-    \`_`"'-
+                         </p>
     </header>
     <main>
          <p>Hola mundo!</p>
