@@ -24,6 +24,7 @@
         <p>Juancvl2009</p>
     </header>
     <main>
+        <h2>Título de sección</h2>
         <p>Hola mundo!</p>
         <!DOCTYPE html>
         <html lang="es">
