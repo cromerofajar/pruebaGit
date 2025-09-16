@@ -21,7 +21,10 @@
                     `-.-' \ )-`( , o o)
                           `-    \`_`"'-
                          </p>
-                         <p>Juancvl2009</p>
+                 ¡ ¡       <p>Juancvl2009
+                (-.-)
+                 {-} 
+                      </p>
     </header>
     <main>
          <p>Hola mundo!</p>
